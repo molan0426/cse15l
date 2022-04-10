@@ -16,3 +16,8 @@ If you see something like the picture above, congratulations, you are login in s
 You can try some command.
 ![Trying_Some_Commands](screenshot_week2/Trying_Some_Commands.png)
 
+![Moving_Files_with_scp](screenshot_week2/Moving_Files_with_scp.png)
+
+![Setting_an_SSH_Key](screenshot_week2/Setting_an_SSH_Key.png)
+
+
