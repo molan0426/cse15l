@@ -32,5 +32,4 @@ With ssh key, I don't need to type in username and password when we commit and p
 ![](screenshot_week6/3_runfile.png)
 * Copy and Run the test file in one line.
 ![](screenshot_week6/3_run_together.png)
-
-
+Combine scp, ;, and ssh to copy the whole directory and run the tests in one line.
