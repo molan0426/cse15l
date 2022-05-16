@@ -23,6 +23,7 @@ The myMac_key is the ssh key of my computer, and the ieng6_key is the ssh key of
 * commit and push a change.
 ![](screenshot_week6/2_commit_push.png)
 With ssh key, I don't need to type in username and password when we commit and push files.
+* [a link for the resulting commit](https://github.com/molan0426/markdown-parser/commit/0ada61a42422939c171806fb673df9e05d0a6174)
 
 ## Copy whole directories with scp -r
 * copy markdown-parse directory to ieng6 account.
