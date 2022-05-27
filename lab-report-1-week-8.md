@@ -1,7 +1,7 @@
 # lab-report-week-8
 ## The expected result:
-* snippet1: [`google.com", "google.com", "ucsd.edu]
-* snippet2: [a.com", "a.com(())", "example.com]
+* snippet1: [`google.com, google.com, ucsd.edu]
+* snippet2: [a.com, a.com(()), example.com]
 * snippet3: [https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]
 * The code in MarkdownParseTest.java for how I turned it into a test:
 ![test](screenshot_week8/markdowntest.png)
