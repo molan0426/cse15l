@@ -11,3 +11,5 @@
 [Lab Report 3](lab-report-1-week-6.md)
 
 [Lab Report 4](lab-report-1-week-8.md)
+
+[Lab Report 5](lab-report-1-week-10.md)
